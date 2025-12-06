@@ -1,4 +1,4 @@
-class Kmp < Formula
+class Kpm < Formula
   desc "Kotlin Package Manager - Scaffold and manage Kotlin/Android projects and dependencies with ease."
   homepage "https://github.com/BenMorrisRains/Kotlin-Package-Manager"
   url "https://github.com/BenMorrisRains/Kotlin-Package-Manager/archive/v1.0.0.tar.gz"
