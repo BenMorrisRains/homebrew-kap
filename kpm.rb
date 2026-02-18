@@ -1,8 +1,8 @@
 class Kpm < Formula
   desc "Kotlin Package Manager - Scaffold and manage Kotlin/Android projects and dependencies with ease."
   homepage "https://github.com/BenMorrisRains/Kotlin-Package-Manager"
-  url "https://github.com/BenMorrisRains/Kotlin-Package-Manager/archive/v1.1.5.tar.gz"
-  sha256 "70db14c15bda6b3d7f797e5d8231180258c61606586e36792a11317f8b2e63d8"
+  url "https://github.com/BenMorrisRains/Kotlin-Package-Manager/archive/v1.1.6.tar.gz"
+  sha256 "84893ee696271ac3127dd94fb1d6f74bebbac03366c52164b950af6071755c10"
   license "MIT"
 
   depends_on "gradle"
